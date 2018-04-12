@@ -190,6 +190,12 @@ a:focus, a:hover {
   padding-bottom: 150px;
 }
 
+.content-section .no-bullet {
+  padding-bottom: 10px;
+  list-style-type: none;
+  padding-left: 0;
+}
+
 .download-section {
   color: white;
   background: url("../img/downloads-bg.jpg") no-repeat center center scroll;
