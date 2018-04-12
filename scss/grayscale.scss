@@ -99,6 +99,19 @@ a {
       }
     }
   }
+
+  .menu-text {
+    @media(max-width: 390px) {
+      display: none;
+    }
+  }
+  //
+  // @media(max-width: 390) {
+  //   .menu-text {
+  //     display: none;
+  //   }
+  // }
+  //
   @media(min-width:992px) {
     padding-top: 20px;
     padding-bottom: 20px;

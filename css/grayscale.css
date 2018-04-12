@@ -91,6 +91,12 @@ a:focus, a:hover {
   background-color: transparent;
 }
 
+@media (max-width: 390px) {
+  #mainNav .menu-text {
+    display: none;
+  }
+}
+
 @media (min-width: 992px) {
   #mainNav {
     padding-top: 20px;
