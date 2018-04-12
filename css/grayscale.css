@@ -92,7 +92,7 @@ a:focus, a:hover {
 }
 
 @media (max-width: 390px) {
-  #mainNav .menu-text {
+  #mainNav .menu-text, #mainNav .nav-text {
     display: none;
   }
 }

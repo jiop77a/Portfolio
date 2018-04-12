@@ -100,7 +100,7 @@ a {
     }
   }
 
-  .menu-text {
+  .menu-text, .nav-text {
     @media(max-width: 390px) {
       display: none;
     }
